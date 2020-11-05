@@ -17,3 +17,5 @@ formatted as above. all caps.
 # PySplitter.py
 
 Used for splitting up large PDB files. Useful when working with large mutli-domian proteins. You can define and name with regions you want in the dictionary SE_Dict. An example is included (along with a PDB file), for 6 erythronolide B synthase (DEBS).
+
+ATM it only works with protein dimers.
