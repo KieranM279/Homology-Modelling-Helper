@@ -5,8 +5,6 @@ Created on Sun Oct 25 19:34:27 2020
 @author: kiera
 """
 # importing the relevant modules
-import os
-os.chdir('C:/Users/kiera/Documents/GitHub/Homology-Modelling-Helper')
 from Bio.PDB import PDBParser
 from Bio.PDB import Dice
 
