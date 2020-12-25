@@ -1,5 +1,3 @@
-setwd("")
-
 #install.packages("seqinr")
 library('seqinr')
 
